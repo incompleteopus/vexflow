@@ -732,7 +732,7 @@ Vex.Flow.durationToGlyph.duration_codes = {
   },
   "64": {
     common: {
-      beam_count: 3,
+      beam_count: 4,
       head_width: 10.5,
       stem: true,
       stem_offset: 0,
